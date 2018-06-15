@@ -4,3 +4,9 @@ F:\GitDev\MigraCarpetas\MigraCarpetas\obj\x86\Debug\MigraCarpetas.exe
 F:\GitDev\MigraCarpetas\MigraCarpetas\obj\x86\Debug\MigraCarpetas.pdb
 F:\GitDev\MigraCarpetas\MigraCarpetas\obj\x86\Debug\MigraCarpetas.csprojAssemblyReference.cache
 F:\GitDev\MigraCarpetas\MigraCarpetas\obj\x86\Debug\MigraCarpetas.csproj.CoreCompileInputs.cache
+F:\GitDev\MigraCarpetasG\MigraCarpetas\bin\Debug\MigraCarpetas.exe
+F:\GitDev\MigraCarpetasG\MigraCarpetas\bin\Debug\MigraCarpetas.pdb
+F:\GitDev\MigraCarpetasG\MigraCarpetas\obj\x86\Debug\MigraCarpetas.csprojAssemblyReference.cache
+F:\GitDev\MigraCarpetasG\MigraCarpetas\obj\x86\Debug\MigraCarpetas.csproj.CoreCompileInputs.cache
+F:\GitDev\MigraCarpetasG\MigraCarpetas\obj\x86\Debug\MigraCarpetas.exe
+F:\GitDev\MigraCarpetasG\MigraCarpetas\obj\x86\Debug\MigraCarpetas.pdb
