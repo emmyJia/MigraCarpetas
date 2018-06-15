@@ -1,0 +1,6 @@
+F:\GitDev\MigraCarpetas\MigraCarpetas\bin\Debug\MigraCarpetas.exe
+F:\GitDev\MigraCarpetas\MigraCarpetas\bin\Debug\MigraCarpetas.pdb
+F:\GitDev\MigraCarpetas\MigraCarpetas\obj\x86\Debug\MigraCarpetas.exe
+F:\GitDev\MigraCarpetas\MigraCarpetas\obj\x86\Debug\MigraCarpetas.pdb
+F:\GitDev\MigraCarpetas\MigraCarpetas\obj\x86\Debug\MigraCarpetas.csprojAssemblyReference.cache
+F:\GitDev\MigraCarpetas\MigraCarpetas\obj\x86\Debug\MigraCarpetas.csproj.CoreCompileInputs.cache
